@@ -6,3 +6,4 @@
 *.pdf
 *.png
 *.csv
+.DS_Store
